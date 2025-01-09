@@ -1,5 +1,4 @@
 # Nosql-challenge
-Nosql-challenge
 
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
@@ -78,3 +77,5 @@ An exciting new halal restaurant just opened in Greenwich, but hasn't been rated
 8. Use update_many to convert RatingValue to integer numbers.
 ![image](https://github.com/user-attachments/assets/cdd593d4-0af3-4bf7-be49-97d59b52b960)
 
+
+![image](https://github.com/user-attachments/assets/0ea50a0d-a5a4-4229-84ce-f6a5db84b13f)
